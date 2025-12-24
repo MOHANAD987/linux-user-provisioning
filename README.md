@@ -31,6 +31,7 @@ A robust, enterprise-grade Bash automation tool for bulk user creation and manag
 ## 🔹 Project Structure
 Plaintext:
 
+
 linux-user-provisioning/
 ├── scripts/
 │   ├── collect_user_data.sh    # Interactive data collection script
@@ -42,6 +43,7 @@ linux-user-provisioning/
 │   ├── user_creation.log       # Execution history
 │   └── audit.log               # Detailed system audit logs
 └── README.md
+
 
 ```
 
